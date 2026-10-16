@@ -1,4 +1,4 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
 # How to Build Web Status Handler
 A wearable web content security layer that uses SslErrorHandler for intercepting SSL certificate errors and prompting the user with trust decisions, HttpAuthHandler for handling HTTP Basic/Digest authentication challenges with credential input, ClientAuthenticationHandler for managing client certificate selection during mutual TLS, WebResourceError for capturing and classifying web resource loading failures, WebResourceRequest for inspecting failed request details (URL, headers, method), and WebResourceHandler for custom handling of resource loading (retry, fallback, cache). The codelab builds a secure web dashboard for enterprise IoT monitoring that handles certificate pinning, authentication, and graceful error recovery.
